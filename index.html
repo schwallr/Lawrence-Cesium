@@ -42,7 +42,10 @@
 
     // Load a KML File (Replace with your actual KML URL)
     var kmlUrl = 'test.kml';
-    var kmlDataSource = Cesium.KmlDataSource.load(kmlUrl);
+    var kmlDataSource = Cesium.KmlDataSource.load(kmlUrl, {
+        clampToGround: true
+    });
+    
     viewer.dataSources.add(kmlDataSource);
 
   
