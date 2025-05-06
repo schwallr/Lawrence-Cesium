@@ -173,7 +173,7 @@
 		<LookAt>
 			<longitude>-95.23800334910281</longitude>
 			<latitude>38.96917463305513</latitude>
-			<altitude>1000</altitude>
+			<altitude>0</altitude>
 			<heading>329.5921014810519</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -191,7 +191,7 @@
 		<LookAt>
 			<longitude>-95.22926217877115</longitude>
 			<latitude>38.97075475458877</latitude>
-			<altitude>1000</altitude>
+			<altitude>0</altitude>
 			<heading>329.5912785856451</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -209,7 +209,7 @@
 		<LookAt>
 			<longitude>-95.22988064683238</longitude>
 			<latitude>38.9642471591807</latitude>
-			<altitude>1000</altitude>
+			<altitude>0</altitude>
 			<heading>329.5942482696826</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -227,7 +227,7 @@
 		<LookAt>
 			<longitude>-95.22551245529355</longitude>
 			<latitude>38.96621527854637</latitude>
-			<altitude>1000</altitude>
+			<altitude>0</altitude>
 			<heading>329.5937083567617</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -245,7 +245,7 @@
 		<LookAt>
 			<longitude>-95.22593968383138</longitude>
 			<latitude>38.96851483706058</latitude>
-			<altitude>1000</altitude>
+			<altitude>0</altitude>
 			<heading>329.5933302410457</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -263,7 +263,7 @@
 		<LookAt>
 			<longitude>-95.23569550182611</longitude>
 			<latitude>38.97145501586532</latitude>
-			<altitude>1000</altitude>
+			<altitude>0</altitude>
 			<heading>329.5921020928157</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -284,7 +284,7 @@
 		<LookAt>
 			<longitude>-95.23591598505114</longitude>
 			<latitude>38.96820136591452</latitude>
-			<altitude>1000</altitude>
+			<altitude>0</altitude>
 			<heading>329.594296214863</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -305,7 +305,7 @@
 		<LookAt>
 			<longitude>-95.23591598505114</longitude>
 			<latitude>38.96820136591452</latitude>
-			<altitude>1000</altitude>
+			<altitude>0</altitude>
 			<heading>329.594296214863</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
