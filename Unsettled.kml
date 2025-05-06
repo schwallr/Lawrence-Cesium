@@ -172,8 +172,8 @@
 		<description><![CDATA[<div>City's encampment "Camp New Beginnings" behind Johnny's tavern. Cleared and bulldozed by City Oct 2024</div>]]></description>
 		<styleUrl>#__managed_style_0A23D8BAC237DC8CB858</styleUrl>
 		<Point>
-                        <altitudeMode>relativeToGround</altitudeMode>
-			<coordinates>-95.2375192291876,38.97448187138231,50</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-95.2375192291876,38.97448187138231,300</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="0917521E8E37DBA8F0CB">
