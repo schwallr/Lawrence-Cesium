@@ -173,7 +173,7 @@
 		<LookAt>
 			<longitude>-95.23800334910281</longitude>
 			<latitude>38.96917463305513</latitude>
-			<altitude>-1.414648398423424e-09</altitude>
+			<altitude>1000</altitude>
 			<heading>329.5921014810519</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -182,7 +182,7 @@
 		</LookAt>
 		<styleUrl>#__managed_style_0A23D8BAC237DC8CB858</styleUrl>
 		<Point>
-			<coordinates>-95.2375192291876,38.97448187138231,-7.073241992117119e-10</coordinates>
+			<coordinates>-95.2375192291876,38.97448187138231,1000</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="0917521E8E37DBA8F0CB">
@@ -191,7 +191,7 @@
 		<LookAt>
 			<longitude>-95.22926217877115</longitude>
 			<latitude>38.97075475458877</latitude>
-			<altitude>0</altitude>
+			<altitude>1000</altitude>
 			<heading>329.5912785856451</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -200,7 +200,7 @@
 		</LookAt>
 		<styleUrl>#__managed_style_0A23D8BAC237DC8CB858</styleUrl>
 		<Point>
-			<coordinates>-95.22999086063321,38.97188746979059,0</coordinates>
+			<coordinates>-95.22999086063321,38.97188746979059,1000</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="02DBD2C7F937DBA4B7D8">
@@ -209,7 +209,7 @@
 		<LookAt>
 			<longitude>-95.22988064683238</longitude>
 			<latitude>38.9642471591807</latitude>
-			<altitude>1.414648398423424e-09</altitude>
+			<altitude>1000</altitude>
 			<heading>329.5942482696826</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -218,7 +218,7 @@
 		</LookAt>
 		<styleUrl>#__managed_style_0A23D8BAC237DC8CB858</styleUrl>
 		<Point>
-			<coordinates>-95.22627340674319,38.96402816756941,0</coordinates>
+			<coordinates>-95.22627340674319,38.96402816756941,1000</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="062EDFC23C37DBA7D211">
@@ -227,7 +227,7 @@
 		<LookAt>
 			<longitude>-95.22551245529355</longitude>
 			<latitude>38.96621527854637</latitude>
-			<altitude>1.414648398423424e-09</altitude>
+			<altitude>1000</altitude>
 			<heading>329.5937083567617</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -236,7 +236,7 @@
 		</LookAt>
 		<styleUrl>#__managed_style_0A23D8BAC237DC8CB858</styleUrl>
 		<Point>
-			<coordinates>-95.22526141882946,38.96661570442801,1.414648398423424e-09</coordinates>
+			<coordinates>-95.22526141882946,38.96661570442801,1000</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="0F92E17A7837DBA9FC24">
@@ -245,7 +245,7 @@
 		<LookAt>
 			<longitude>-95.22593968383138</longitude>
 			<latitude>38.96851483706058</latitude>
-			<altitude>1.414648398423424e-09</altitude>
+			<altitude>1000</altitude>
 			<heading>329.5933302410457</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -254,7 +254,7 @@
 		</LookAt>
 		<styleUrl>#__managed_style_0A23D8BAC237DC8CB858</styleUrl>
 		<Point>
-			<coordinates>-95.22066874903911,38.9695393468492,-7.073241992117119e-10</coordinates>
+			<coordinates>-95.22066874903911,38.9695393468492,1000</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="004D474F0937DBAD266C">
@@ -263,7 +263,7 @@
 		<LookAt>
 			<longitude>-95.23569550182611</longitude>
 			<latitude>38.97145501586532</latitude>
-			<altitude>-7.073241992117119e-10</altitude>
+			<altitude>1000</altitude>
 			<heading>329.5921020928157</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -273,7 +273,7 @@
 		<styleUrl>#__managed_style_36F3D8514B37DC8CB858</styleUrl>
 		<LineString>
 			<coordinates>
-				-95.23792312024118,38.974898713215,0 -95.23040300116168,38.97194863046271,0 
+				-95.23792312024118,38.974898713215,1000 -95.23040300116168,38.97194863046271,1000 
 			</coordinates>
 		</LineString>
 	</Placemark>
@@ -283,7 +283,7 @@
 		<LookAt>
 			<longitude>-95.23591598505114</longitude>
 			<latitude>38.96820136591452</latitude>
-			<altitude>0</altitude>
+			<altitude>1000</altitude>
 			<heading>329.594296214863</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -293,7 +293,7 @@
 		<styleUrl>#__managed_style_6FD0B59F3B37DC8CB858</styleUrl>
 		<LineString>
 			<coordinates>
-				-95.22991527392136,38.97182979689462,0 -95.22688932349193,38.96486062904442,0 
+				-95.22991527392136,38.97182979689462,1000 -95.22688932349193,38.96486062904442,1000 
 			</coordinates>
 		</LineString>
 	</Placemark>
@@ -303,7 +303,7 @@
 		<LookAt>
 			<longitude>-95.23591598505114</longitude>
 			<latitude>38.96820136591452</latitude>
-			<altitude>0</altitude>
+			<altitude>1000</altitude>
 			<heading>329.594296214863</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -313,7 +313,7 @@
 		<styleUrl>#__managed_style_6FD0B59F3B37DC8CB858</styleUrl>
 		<LineString>
 			<coordinates>
-				-95.22989640162477,38.97195919517677,0 -95.22101958194763,38.9696667050069,0 
+				-95.22989640162477,38.97195919517677,1000 -95.22101958194763,38.9696667050069,1000 
 			</coordinates>
 		</LineString>
 	</Placemark>
