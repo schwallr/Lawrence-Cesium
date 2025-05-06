@@ -173,7 +173,7 @@
 		<styleUrl>#__managed_style_0A23D8BAC237DC8CB858</styleUrl>
 		<Point>
                         <altitudeMode>clampToGround</altitudeMode>
-			<coordinates>-95.2375192291876,38.97448187138231,900</coordinates>
+			<coordinates>-95.2375192291876,38.97448187138231,0</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="0917521E8E37DBA8F0CB">
