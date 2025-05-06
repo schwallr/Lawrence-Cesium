@@ -173,16 +173,17 @@
 		<LookAt>
 			<longitude>-95.23800334910281</longitude>
 			<latitude>38.96917463305513</latitude>
-			<altitude>-1.414648398423424e-09</altitude>
+			<altitude>100</altitude>
 			<heading>329.5921014810519</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
 			<range>5463.829292193588</range>
-			<altitudeMode>absolute</altitudeMode>
+			<altitudeMode>relativeToGround</altitudeMode>
 		</LookAt>
 		<styleUrl>#__managed_style_0A23D8BAC237DC8CB858</styleUrl>
 		<Point>
-			<coordinates>-95.2375192291876,38.97448187138231,-7.073241992117119e-10</coordinates>
+                        <altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-95.2375192291876,38.97448187138231,100</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="0917521E8E37DBA8F0CB">
