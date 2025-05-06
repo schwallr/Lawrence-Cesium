@@ -303,8 +303,11 @@
 		</LookAt>
 		<styleUrl>#__managed_style_6FD0B59F3B37DC8CB858</styleUrl>
 		<LineString>
+			<extrude>1</extrude>
+                        <altitudeMode>relativeToGround</altitudeMode>
 			<coordinates>
-				-95.22989640162477,38.97195919517677,0 -95.22101958194763,38.9696667050069,0 
+				-95.22989640162477,38.97195919517677,700 
+                                -95.22101958194763,38.9696667050069,700
 			</coordinates>
 		</LineString>
 	</Placemark>
