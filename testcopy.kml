@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">	
+<Placemark>
+  <name>My Pin</name>
+  <Point>
+    <coordinates>-95.2375192291876,38.97448187138231,-0</coordinates>
+	<altitudeMode>relativeToGround</altitudeMode>		
+  </Point>
+  <styleUrl>#myPinStyle</styleUrl>
+</Placemark>
+
+<Style id="myPinStyle">
+  <IconStyle>
+    <scale>1.0</scale>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/kml/shapes/placemark_0.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+</Document>
+</kml>
