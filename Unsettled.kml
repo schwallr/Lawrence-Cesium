@@ -178,11 +178,11 @@
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
 			<range>5463.829292193588</range>
-			<altitudeMode>relativeToGround</altitudeMode>
+			<altitudeMode>clampToGround</altitudeMode>
 		</LookAt>
 		<styleUrl>#__managed_style_0A23D8BAC237DC8CB858</styleUrl>
 		<Point>
-                        <altitudeMode>relativeToGround</altitudeMode>
+                        <altitudeMode>clampToGround</altitudeMode>
 			<coordinates>-95.2375192291876,38.97448187138231,100</coordinates>
 		</Point>
 	</Placemark>
