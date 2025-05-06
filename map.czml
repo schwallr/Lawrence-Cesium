@@ -1,0 +1,333 @@
+[
+  {
+    "id": "document",
+    "version": "1.0"
+  },
+  {
+    "id": "03AAEDDDF537DBAB518C",
+    "name": "Tent City",
+    "description": "<div class=\"cesium-infoBox-description-lighter\" style=\"overflow:auto;word-wrap:break-word;background-color:rgb(255,255,255);color:rgb(0,0,0);\"><div>City's encampment \"Camp New Beginnings\" behind Johnny's tavern. Cleared and bulldozed by City Oct 2024</div></div>",
+    "position": {
+      "cartographicDegrees": [
+        -95.2375192291876,
+        38.97448187138231,
+        0
+      ]
+    },
+    "billboard": {
+      "image": {},
+      "heightReference": "CLAMP_TO_GROUND",
+      "width": 32,
+      "height": 32,
+      "scaleByDistance": {
+        "nearFarScalar": [
+          2414016,
+          1,
+          16093000,
+          0.1
+        ]
+      },
+      "pixelOffsetScaleByDistance": {
+        "nearFarScalar": [
+          2414016,
+          1,
+          16093000,
+          0.1
+        ]
+      }
+    },
+    "label": {
+      "text": "Tent City",
+      "font": "16px sans-serif",
+      "style": "FILL_AND_OUTLINE",
+      "pixelOffset": {
+        "cartesian2": [
+          17,
+          0
+        ]
+      },
+      "horizontalOrigin": "LEFT",
+      "translucencyByDistance": {
+        "nearFarScalar": [
+          3000000,
+          1,
+          5000000,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "id": "0917521E8E37DBA8F0CB",
+    "name": "Amtrak Camp",
+    "description": "<div class=\"cesium-infoBox-description-lighter\" style=\"overflow:auto;word-wrap:break-word;background-color:rgb(255,255,255);color:rgb(0,0,0);\"><div>Cleaned by City Oct 2024</div></div>",
+    "position": {
+      "cartographicDegrees": [
+        -95.22999086063322,
+        38.97188746979057,
+        9.313225746154785e-10
+      ]
+    },
+    "billboard": {
+      "image": {},
+      "heightReference": "CLAMP_TO_GROUND",
+      "width": 32,
+      "height": 32,
+      "scaleByDistance": {
+        "nearFarScalar": [
+          2414016,
+          1,
+          16093000,
+          0.1
+        ]
+      },
+      "pixelOffsetScaleByDistance": {
+        "nearFarScalar": [
+          2414016,
+          1,
+          16093000,
+          0.1
+        ]
+      }
+    },
+    "label": {
+      "text": "Amtrak Camp",
+      "font": "16px sans-serif",
+      "style": "FILL_AND_OUTLINE",
+      "pixelOffset": {
+        "cartesian2": [
+          17,
+          0
+        ]
+      },
+      "horizontalOrigin": "LEFT",
+      "translucencyByDistance": {
+        "nearFarScalar": [
+          3000000,
+          1,
+          5000000,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "id": "02DBD2C7F937DBA4B7D8",
+    "name": "Hobb's Park",
+    "description": "<div class=\"cesium-infoBox-description-lighter\" style=\"overflow:auto;word-wrap:break-word;background-color:rgb(255,255,255);color:rgb(0,0,0);\"><div>bulldozed Nov 2024</div></div>",
+    "position": {
+      "cartographicDegrees": [
+        -95.22627340674319,
+        38.964028167569396,
+        0
+      ]
+    },
+    "billboard": {
+      "image": {},
+      "heightReference": "CLAMP_TO_GROUND",
+      "width": 32,
+      "height": 32,
+      "scaleByDistance": {
+        "nearFarScalar": [
+          2414016,
+          1,
+          16093000,
+          0.1
+        ]
+      },
+      "pixelOffsetScaleByDistance": {
+        "nearFarScalar": [
+          2414016,
+          1,
+          16093000,
+          0.1
+        ]
+      }
+    },
+    "label": {
+      "text": "Hobb's Park",
+      "font": "16px sans-serif",
+      "style": "FILL_AND_OUTLINE",
+      "pixelOffset": {
+        "cartesian2": [
+          17,
+          0
+        ]
+      },
+      "horizontalOrigin": "LEFT",
+      "translucencyByDistance": {
+        "nearFarScalar": [
+          3000000,
+          1,
+          5000000,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "id": "062EDFC23C37DBA7D211",
+    "name": "11th St railroad tracks",
+    "description": "<div class=\"cesium-infoBox-description-lighter\" style=\"overflow:auto;word-wrap:break-word;background-color:rgb(255,255,255);color:rgb(0,0,0);\"><div>bulldozed March 2025<br></div></div>",
+    "position": {
+      "cartographicDegrees": [
+        -95.22526141882946,
+        38.966615704428,
+        9.313225746154785e-10
+      ]
+    },
+    "billboard": {
+      "image": {},
+      "heightReference": "CLAMP_TO_GROUND",
+      "width": 32,
+      "height": 32,
+      "scaleByDistance": {
+        "nearFarScalar": [
+          2414016,
+          1,
+          16093000,
+          0.1
+        ]
+      },
+      "pixelOffsetScaleByDistance": {
+        "nearFarScalar": [
+          2414016,
+          1,
+          16093000,
+          0.1
+        ]
+      }
+    },
+    "label": {
+      "text": "11th St railroad tracks",
+      "font": "16px sans-serif",
+      "style": "FILL_AND_OUTLINE",
+      "pixelOffset": {
+        "cartesian2": [
+          17,
+          0
+        ]
+      },
+      "horizontalOrigin": "LEFT",
+      "translucencyByDistance": {
+        "nearFarScalar": [
+          3000000,
+          1,
+          5000000,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "id": "0F92E17A7837DBA9FC24",
+    "name": "The Hole",
+    "description": "<div class=\"cesium-infoBox-description-lighter\" style=\"overflow:auto;word-wrap:break-word;background-color:rgb(255,255,255);color:rgb(0,0,0);\"><div>bulldozed March 2025</div></div>",
+    "position": {
+      "cartographicDegrees": [
+        -95.22066874903912,
+        38.9695393468492,
+        -1.3222238854040097e-9
+      ]
+    },
+    "billboard": {
+      "image": {},
+      "heightReference": "CLAMP_TO_GROUND",
+      "width": 32,
+      "height": 32,
+      "scaleByDistance": {
+        "nearFarScalar": [
+          2414016,
+          1,
+          16093000,
+          0.1
+        ]
+      },
+      "pixelOffsetScaleByDistance": {
+        "nearFarScalar": [
+          2414016,
+          1,
+          16093000,
+          0.1
+        ]
+      }
+    },
+    "label": {
+      "text": "The Hole",
+      "font": "16px sans-serif",
+      "style": "FILL_AND_OUTLINE",
+      "pixelOffset": {
+        "cartesian2": [
+          17,
+          0
+        ]
+      },
+      "horizontalOrigin": "LEFT",
+      "translucencyByDistance": {
+        "nearFarScalar": [
+          3000000,
+          1,
+          5000000,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "id": "004D474F0937DBAD266C",
+    "name": "1st Forced Relocation",
+    "description": "<div class=\"cesium-infoBox-description-lighter\" style=\"overflow:auto;word-wrap:break-word;background-color:rgb(255,255,255);color:rgb(0,0,0);\"><div>Most community members of Tent City moved to Amtrak.&nbsp;<br></div></div>",
+    "polyline": {
+      "positions": {
+        "cartographicDegrees": [
+          -95.23792312024118,
+          38.974898713215,
+          0,
+          -95.23040300116169,
+          38.97194863046272,
+          0
+        ]
+      },
+      "arcType": "GEODESIC",
+      "clampToGround": true
+    }
+  },
+  {
+    "id": "03F84F58E537DBAEDB0E",
+    "name": "2nd Forced Relocation",
+    "description": "<div class=\"cesium-infoBox-description-lighter\" style=\"overflow:auto;word-wrap:break-word;background-color:rgb(255,255,255);color:rgb(0,0,0);\"><div>After Amtrak was cleared, some community members moved from Amtrak to Hobb's Park<br></div></div>",
+    "polyline": {
+      "positions": {
+        "cartographicDegrees": [
+          -95.22991527392136,
+          38.97182979689462,
+          0,
+          -95.22688932349193,
+          38.96486062904442,
+          0
+        ]
+      },
+      "arcType": "GEODESIC",
+      "clampToGround": true
+    }
+  },
+  {
+    "id": "07FE7AB25537DBB03221",
+    "name": "2nd Forced Relocation",
+    "description": "<div class=\"cesium-infoBox-description-lighter\" style=\"overflow:auto;word-wrap:break-word;background-color:rgb(255,255,255);color:rgb(0,0,0);\"><div>After Amtrak was bulldozed, the majority of community members moved to The Hole.</div></div>",
+    "polyline": {
+      "positions": {
+        "cartographicDegrees": [
+          -95.22989640162477,
+          38.97195919517677,
+          0,
+          -95.22101958194764,
+          38.96966670500691,
+          0
+        ]
+      },
+      "arcType": "GEODESIC",
+      "clampToGround": true
+    }
+  }
+]
