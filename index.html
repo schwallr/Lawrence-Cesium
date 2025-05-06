@@ -40,11 +40,16 @@
         }
     });
 
-    // Load a KML File (Replace with your actual KML URL)
-    var kmlUrl = 'Unsettled.kml';
-    var kmlDataSource = Cesium.KmlDataSource.load(kmlUrl);
-    
-    viewer.dataSources.add(kmlDataSource);
+    // Load a CZML dataset (Replace with your actual CZML file)
+    var czmlUrl = 'test.czml';
+    var czmlDataSource = new Cesium.CzmlDataSource();
+
+    czmlDataSource.load(czmlUrl).then(function(dataSource) {
+        viewer.dataSources.add(dataSource);
+        viewer.zoomTo(dataSource);
+    }).catch(function(error) {
+        console.error('Error loading CZML:', error);
+    });
 
   
 
