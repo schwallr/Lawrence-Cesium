@@ -273,6 +273,8 @@
 		<styleUrl>#__managed_style_36F3D8514B37DC8CB858</styleUrl>
 		<LineString>
                         <altitudeMode>clampToGround</altitudeMode>
+                        <visibility>1</visibility>
+                        <tessellate>1</tessellate>
 			<coordinates>
 				-95.23792312024118,38.974898713215,300 -95.23040300116168,38.97194863046271,300 
 			</coordinates>
@@ -294,6 +296,8 @@
 		<styleUrl>#__managed_style_6FD0B59F3B37DC8CB858</styleUrl>
 		<LineString>
                         <altitudeMode>clampToGround</altitudeMode>
+                        <visibility>1</visibility>
+                        <tessellate>1</tessellate>
 			<coordinates>
 				-95.22991527392136,38.97182979689462,300 -95.22688932349193,38.96486062904442,300 
 			</coordinates>
@@ -315,6 +319,8 @@
 		<styleUrl>#__managed_style_6FD0B59F3B37DC8CB858</styleUrl>
 		<LineString>
                         <altitudeMode>clampToGround</altitudeMode>
+                        <visibility>1</visibility>
+                        <tessellate>1</tessellate>
 			<coordinates>
 				-95.22989640162477,38.97195919517677,300 -95.22101958194763,38.9696667050069,300
 			</coordinates>
