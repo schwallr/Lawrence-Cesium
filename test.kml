@@ -317,11 +317,11 @@
 			<altitudeMode>clampToGround</altitudeMode>
 		</LookAt>
 		<Style>
-   <LineStyle>
-    <color>ff0000ff</color>
-    <width>8</width>
-   </LineStyle>
-  </Style>
+                  <LineStyle>
+                    <color>ff0000ff</color>
+                    <width>8</width>
+                  </LineStyle>
+                </Style>
 		<LineString>
                         <altitudeMode>clampToGround</altitudeMode>
                         <visibility>1</visibility>
