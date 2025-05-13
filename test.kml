@@ -263,7 +263,7 @@
 		<LookAt>
 			<longitude>-95.23569550182611</longitude>
 			<latitude>38.97145501586532</latitude>
-			<altitude>0</altitude>
+			<altitude>300</altitude>
 			<heading>329.5921020928157</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -274,7 +274,7 @@
 		<LineString>
                         <altitudeMode>clampToGround</altitudeMode>
 			<coordinates>
-				-95.23792312024118,38.974898713215,1000 -95.23040300116168,38.97194863046271,1000 
+				-95.23792312024118,38.974898713215,300 -95.23040300116168,38.97194863046271,300 
 			</coordinates>
 		</LineString>
 	</Placemark>
@@ -284,7 +284,7 @@
 		<LookAt>
 			<longitude>-95.23591598505114</longitude>
 			<latitude>38.96820136591452</latitude>
-			<altitude>0</altitude>
+			<altitude>300</altitude>
 			<heading>329.594296214863</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -295,7 +295,7 @@
 		<LineString>
                         <altitudeMode>clampToGround</altitudeMode>
 			<coordinates>
-				-95.22991527392136,38.97182979689462,1000 -95.22688932349193,38.96486062904442,1000 
+				-95.22991527392136,38.97182979689462,300 -95.22688932349193,38.96486062904442,300 
 			</coordinates>
 		</LineString>
 	</Placemark>
@@ -305,7 +305,7 @@
 		<LookAt>
 			<longitude>-95.23591598505114</longitude>
 			<latitude>38.96820136591452</latitude>
-			<altitude>0</altitude>
+			<altitude>300</altitude>
 			<heading>329.594296214863</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
@@ -316,7 +316,7 @@
 		<LineString>
                         <altitudeMode>clampToGround</altitudeMode>
 			<coordinates>
-				-95.22989640162477,38.97195919517677,1000 -95.22101958194763,38.9696667050069,1000 
+				-95.22989640162477,38.97195919517677,300 -95.22101958194763,38.9696667050069,300
 			</coordinates>
 		</LineString>
 	</Placemark>
