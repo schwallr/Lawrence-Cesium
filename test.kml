@@ -293,13 +293,18 @@
 			<range>3568.415658096493</range>
 			<altitudeMode>clampToGround</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_6FD0B59F3B37DC8CB858</styleUrl>
+		<Style>
+                  <LineStyle>
+                    <color>ff0000ff</color>
+                    <width>8</width>
+                  </LineStyle>
+                </Style>
 		<LineString>
                         <altitudeMode>clampToGround</altitudeMode>
                         <visibility>1</visibility>
                         <tessellate>1</tessellate>
 			<coordinates>
-				-95.22991527392136,38.97182979689462,300 -95.22688932349193,38.96486062904442,300 
+				-95.22999086063321,38.97188746979059,300 -95.22627340674319,38.96402816756941,300 
 			</coordinates>
 		</LineString>
 	</Placemark>
