@@ -309,20 +309,25 @@
 		<LookAt>
 			<longitude>-95.23591598505114</longitude>
 			<latitude>38.96820136591452</latitude>
-			<altitude>300</altitude>
+			<altitude>0</altitude>
 			<heading>329.594296214863</heading>
 			<tilt>0</tilt>
 			<gx:fovy>35</gx:fovy>
 			<range>3568.415658096493</range>
 			<altitudeMode>clampToGround</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_6FD0B59F3B37DC8CB858</styleUrl>
+		<Style>
+   <LineStyle>
+    <color>ff0000ff</color>
+    <width>8</width>
+   </LineStyle>
+  </Style>
 		<LineString>
                         <altitudeMode>clampToGround</altitudeMode>
                         <visibility>1</visibility>
                         <tessellate>1</tessellate>
 			<coordinates>
-				-95.22989640162477,38.97195919517677,300 -95.22101958194763,38.9696667050069,300
+				-95.22999086063321,38.97188746979059,0 -95.22066874903911,38.9695393468492,0
 			</coordinates>
 		</LineString>
 	</Placemark>
