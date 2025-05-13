@@ -270,7 +270,12 @@
 			<range>2442.16920866796</range>
 			<altitudeMode>clampToGround</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_36F3D8514B37DC8CB858</styleUrl>
+	        <Style>
+                  <LineStyle>
+                    <color>ff0000ff</color>
+                    <width>8</width>
+                  </LineStyle>
+                </Style>
 		<LineString>
                         <altitudeMode>clampToGround</altitudeMode>
                         <visibility>1</visibility>
