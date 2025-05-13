@@ -39,17 +39,19 @@
             roll: 0
         }
     });
-
-    // Load a CZML dataset (Replace with your actual CZML file)
-    var czmlUrl = 'map.czml';
-    var czmlDataSource = new Cesium.CzmlDataSource();
-
-    czmlDataSource.load(czmlUrl).then(function(dataSource) {
-        viewer.dataSources.add(dataSource);
-        viewer.zoomTo(dataSource);
+    
+    // Load a KML dataset with clampToGround option enabled
+    var kmlUrl = 'test.kml';
+    Cesium.KmlDataSource.load(kmlUrl, {
+      clampToGround: true
+    }).then(function(dataSource) {
+      viewer.dataSources.add(dataSource);
+      viewer.zoomTo(dataSource);
     }).catch(function(error) {
-        console.error('Error loading CZML:', error);
+      console.error('Error loading KML:', error);
     });
+
+
 
   
 
