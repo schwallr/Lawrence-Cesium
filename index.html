@@ -46,7 +46,17 @@
       clampToGround: true
     }).then(function(dataSource) {
       viewer.dataSources.add(dataSource);
-      viewer.zoomTo(dataSource);
+        // Set the camera to the same initial viewpoint
+      viewer.camera.setView({
+        destination: Cesium.Cartesian3.fromDegrees(-95.2300, 38.9400, 1800),
+        orientation: {
+          heading: Cesium.Math.toRadians(0),
+          pitch: Cesium.Math.toRadians(-30),
+          roll: 0
+        }
+      });
+
+
     }).catch(function(error) {
       console.error('Error loading KML:', error);
     });
